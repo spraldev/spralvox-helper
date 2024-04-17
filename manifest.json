@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
-  "version": "2.4.1",
-  "name": "Skiovox Helper",
-  "description": "A helper for the Skiovox exploit -- read more at skiovox.com",
+  "version": "3",
+  "name": "spralvox",
+  "description": "spral",
   "icons": {
     "128": "icon.png"
   },
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxCxAD3ZtDG9oXYg2ZRE4IoajZju3lmq5AlBv26nsfT0F2D+THPKbcQQYNjyU0zGaKzp14xd2E8/dRPbvEuZsu2sV9lpv2N1r0HfyRO7crP+Fbcc5HBxjya2rmhSzGQVC810O/paJ2PDJvyw5gxcM5SvIPRl8G3mKuvB6ciBRmDSm88mi3CHS33PfXn8SQWjCUuvGFgXUCXy/T6HMjzHppS2xfVwjjNGblelgxeqRqIGsaZSKmGMIETqK5GYWQjfvMrSvt2owiaPkhEjLLkntz54+dbNKppBtJHZymCzi9WKP+dFs+FO43khnGdez79AOAWFIpmvmBdnhI+zW0eiMkQIDAQAB",
+  
   "commands": {
     "ACCESS_HISTORY": {
       "description": "Ctrl+H"
